@@ -1,0 +1,23 @@
+import mysql.connector
+import sys
+
+mydb = mysql.connector.connect(
+  host="192.168.0.101",
+  user="root",
+  passwd="12345678",
+  database="Car_Specification"
+)
+M=mydb.cursor()
+num = sys.argv[1]
+if num == '1':
+  M.execute("SELECT * FROM Car_Specification.DetailD")
+  print('[ID, Name, Quantity, Material, Price, Part_ID]')
+elif num == '2':
+  M.execute("SELECT * FROM Car_Specification.PartD")
+  print('[ID, Abbreviation, Description]')
+elif num == '3':
+  M.execute("SELECT d.ID, d.Name, d.Quantity, d.Material, d.Price, p.Abbreviation, p.Description FROM DetailD d INNER JOIN PartD p ON d.Part_ID=p.ID")
+  print('[ID, Name, Quantity, Material, Price, Abbreviation, Description]')
+R=M.fetchall()
+for x in R:
+  print(x)

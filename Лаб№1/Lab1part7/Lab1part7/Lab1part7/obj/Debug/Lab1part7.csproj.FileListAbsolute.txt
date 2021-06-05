@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Uni\Лабы\SystemProgramming\Lab1part7\Lab1part7\Lab1part7\bin\Debug\Lab1part7.exe.config
+C:\Users\User\Desktop\Uni\Лабы\SystemProgramming\Lab1part7\Lab1part7\Lab1part7\bin\Debug\Lab1part7.exe
+C:\Users\User\Desktop\Uni\Лабы\SystemProgramming\Lab1part7\Lab1part7\Lab1part7\bin\Debug\Lab1part7.pdb
+C:\Users\User\Desktop\Uni\Лабы\SystemProgramming\Lab1part7\Lab1part7\Lab1part7\obj\Debug\Lab1part7.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Uni\Лабы\SystemProgramming\Lab1part7\Lab1part7\Lab1part7\obj\Debug\Lab1part7.Form1.resources
+C:\Users\User\Desktop\Uni\Лабы\SystemProgramming\Lab1part7\Lab1part7\Lab1part7\obj\Debug\Lab1part7.Properties.Resources.resources
+C:\Users\User\Desktop\Uni\Лабы\SystemProgramming\Lab1part7\Lab1part7\Lab1part7\obj\Debug\Lab1part7.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Uni\Лабы\SystemProgramming\Lab1part7\Lab1part7\Lab1part7\obj\Debug\Lab1part7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Uni\Лабы\SystemProgramming\Lab1part7\Lab1part7\Lab1part7\obj\Debug\Lab1part7.exe
+C:\Users\User\Desktop\Uni\Лабы\SystemProgramming\Lab1part7\Lab1part7\Lab1part7\obj\Debug\Lab1part7.pdb

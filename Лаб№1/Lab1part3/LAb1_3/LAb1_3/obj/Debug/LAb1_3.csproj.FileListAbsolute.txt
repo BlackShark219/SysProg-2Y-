@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Uni\Лабы\SystemProgramming\Lab1part3\LAb1_3\LAb1_3\bin\Debug\LAb1_3.exe.config
+C:\Users\User\Desktop\Uni\Лабы\SystemProgramming\Lab1part3\LAb1_3\LAb1_3\bin\Debug\LAb1_3.exe
+C:\Users\User\Desktop\Uni\Лабы\SystemProgramming\Lab1part3\LAb1_3\LAb1_3\bin\Debug\LAb1_3.pdb
+C:\Users\User\Desktop\Uni\Лабы\SystemProgramming\Lab1part3\LAb1_3\LAb1_3\obj\Debug\LAb1_3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Uni\Лабы\SystemProgramming\Lab1part3\LAb1_3\LAb1_3\obj\Debug\LAb1_3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Uni\Лабы\SystemProgramming\Lab1part3\LAb1_3\LAb1_3\obj\Debug\LAb1_3.exe
+C:\Users\User\Desktop\Uni\Лабы\SystemProgramming\Lab1part3\LAb1_3\LAb1_3\obj\Debug\LAb1_3.pdb

@@ -1,0 +1,21 @@
+C:\Users\User\Desktop\Uni\Лабы\System Programming\Lab1part1\Lab1_1\Lab1_1\bin\Debug\Lab1_1.exe.config
+C:\Users\User\Desktop\Uni\Лабы\System Programming\Lab1part1\Lab1_1\Lab1_1\bin\Debug\Lab1_1.exe
+C:\Users\User\Desktop\Uni\Лабы\System Programming\Lab1part1\Lab1_1\Lab1_1\bin\Debug\Lab1_1.pdb
+C:\Users\User\Desktop\Uni\Лабы\System Programming\Lab1part1\Lab1_1\Lab1_1\obj\Debug\Lab1_1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Uni\Лабы\System Programming\Lab1part1\Lab1_1\Lab1_1\obj\Debug\Lab1_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Uni\Лабы\System Programming\Lab1part1\Lab1_1\Lab1_1\obj\Debug\Lab1_1.exe
+C:\Users\User\Desktop\Uni\Лабы\System Programming\Lab1part1\Lab1_1\Lab1_1\obj\Debug\Lab1_1.pdb
+C:\Users\User\Desktop\Uni\Лабы\SystemProgramming\Lab1part1\Lab1_1\Lab1_1\bin\Debug\Lab1_1.exe.config
+C:\Users\User\Desktop\Uni\Лабы\SystemProgramming\Lab1part1\Lab1_1\Lab1_1\bin\Debug\Lab1_1.exe
+C:\Users\User\Desktop\Uni\Лабы\SystemProgramming\Lab1part1\Lab1_1\Lab1_1\bin\Debug\Lab1_1.pdb
+C:\Users\User\Desktop\Uni\Лабы\SystemProgramming\Lab1part1\Lab1_1\Lab1_1\obj\Debug\Lab1_1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Uni\Лабы\SystemProgramming\Lab1part1\Lab1_1\Lab1_1\obj\Debug\Lab1_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Uni\Лабы\SystemProgramming\Lab1part1\Lab1_1\Lab1_1\obj\Debug\Lab1_1.exe
+C:\Users\User\Desktop\Uni\Лабы\SystemProgramming\Lab1part1\Lab1_1\Lab1_1\obj\Debug\Lab1_1.pdb
+D:\SysProg\Uni\Uni\Лабы\SystemProgramming\Lab1part1\Lab1_1\Lab1_1\bin\Debug\Lab1_1.exe.config
+D:\SysProg\Uni\Uni\Лабы\SystemProgramming\Lab1part1\Lab1_1\Lab1_1\bin\Debug\Lab1_1.exe
+D:\SysProg\Uni\Uni\Лабы\SystemProgramming\Lab1part1\Lab1_1\Lab1_1\bin\Debug\Lab1_1.pdb
+D:\SysProg\Uni\Uni\Лабы\SystemProgramming\Lab1part1\Lab1_1\Lab1_1\obj\Debug\Lab1_1.csprojAssemblyReference.cache
+D:\SysProg\Uni\Uni\Лабы\SystemProgramming\Lab1part1\Lab1_1\Lab1_1\obj\Debug\Lab1_1.csproj.CoreCompileInputs.cache
+D:\SysProg\Uni\Uni\Лабы\SystemProgramming\Lab1part1\Lab1_1\Lab1_1\obj\Debug\Lab1_1.exe
+D:\SysProg\Uni\Uni\Лабы\SystemProgramming\Lab1part1\Lab1_1\Lab1_1\obj\Debug\Lab1_1.pdb

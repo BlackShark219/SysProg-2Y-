@@ -1,0 +1,8 @@
+ECT [Cosmetics.D].IngridientID,[Contains].Substance FROM [Cosmetics.D] INNER JOIN [Contains]  ON [Cosmetics.D].IngridientID=[Contains].SubstanceID;
+WHERE Substance.ID='E33';
+INSERT INTO [Cosmetics.D] (Type,Brand,Color,Name,IngridientID,Efficient)
+VALUES ('Cream','NYLOreal','White','BB Cream','E50','High');
+UPDATE [Cosmetics.D] 
+SET Type='powder', Brand='Totally Spice',Color='White',Name='New powder',Efficient='Low'
+WHERE IngridientID='E20';
+DELETE FROM [Cosmetics.D] WHERE IngridientID='E20';
